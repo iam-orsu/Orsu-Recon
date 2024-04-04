@@ -1,5 +1,10 @@
 #!/bin/bash
 
+#Tool Created By @iam.orsu
+#Enumerated Subdomains with Subfinder, Assetfinder..
+#Checks the domain is alive or not
+#Takes Screenshot of the site
+#Performs portscanning on the alive domains
 domain=$1
 RED="\033[1;31m"
 RESET="\033[0m]"
